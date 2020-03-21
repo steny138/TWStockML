@@ -10,12 +10,12 @@ pandas = "*"
 numpy = "*"
 ipykernel = "*"
 ta-lib = "*"
-finlab = {editable = true,git = "https://github.com/steny138/finlablib.git"}
 matplotlib = "*"
 requests = "*"
 ipywidgets = "*"
 tqdm = "*"
 lxml = "*"
+finlab = {editable = true,git = "https://github.com/steny138/finlablib.git",ref = "master"}
 
 [requires]
 python_version = "3.7"
