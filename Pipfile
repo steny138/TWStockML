@@ -16,6 +16,8 @@ ipywidgets = "*"
 tqdm = "*"
 lxml = "*"
 finlab = {editable = true,git = "https://github.com/steny138/finlablib.git",ref = "master"}
+sklearn = "*"
+mlxtend = "*"
 
 [requires]
 python_version = "3.7"
